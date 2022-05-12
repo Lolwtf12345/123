@@ -26,6 +26,7 @@ using wManager.Wow;
 
 public class Main : wManager.Plugin.IPlugin
 {
+	//3
     private bool _isLaunched;
     public void Initialize()
     {
